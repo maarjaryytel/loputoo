@@ -27,7 +27,7 @@ border.end_fill()                 #lõpetab väljaku täitmise
 border.goto(0,300)                #väljaku keskele joone joonistamine
 border.color('white')
 border.setheading(270)            #ülevalt keskelt läheb alla keskele
-for i in range(25):               #??????????miks ta seda tegi, valgete kriipsukeste saamiseks
+for i in range(25):               #valgete kriipsukeste saamiseks
     if i%2 ==0:
         border.forward(24)
     else:
