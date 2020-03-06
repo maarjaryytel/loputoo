@@ -1,26 +1,26 @@
 
-ÜLDIST
+ÃœLDIST
 
-See on lihtne PING-PONG mäng, mis on koostatud kasutades Python 3. 
+See on lihtne PING-PONG mÃ¤ng, mis on koostatud kasutades Turtle ja Python 3.7. 
 
-Mängu saab käivitada terminalis või command prompt'is failist main.py.
+MÃ¤ngu saab kÃ¤ivitada terminalis vÃµi command prompt'is failist main.py.
 
-See rakendus on Teie tähelepanu väärt, kuna teda on lihtne mängida ning tal on kasutajasõbralik disain.
+See rakendus on Teie tÃ¤helepanu vÃ¤Ã¤rt, kuna teda on lihtne mÃ¤ngida ning tal on kasutajasÃµbralik disain.
 
 
-MÄNGUREEGLID
+MÃ„NGUREEGLID
 
-Mäng toimub paaris.
+MÃ¤ng toimub paaris.
 
-Kummagil mängijal tuleb kaitsta oma mänguväljaku seina palli tabamuse eest mängulaual paikneva ristküliku abil.
+Kummagil mÃ¤ngijal tuleb kaitsta oma mÃ¤nguvÃ¤ljaku seina palli tabamuse eest mÃ¤ngulaual paikneva ristkÃ¼liku abil.
 
-Paremal mänguväljaku poolel mängival mängijal tuleb ristküliku liigutamiseks kasutada klahve "p" ja "l".
+Paremal mÃ¤nguvÃ¤ljaku poolel mÃ¤ngival mÃ¤ngijal tuleb ristkÃ¼liku liigutamiseks kasutada klahve "p" ja "l".
 
-Vasakul mänguväljaku poolel mängival mängijal tuleb ristküliku liigutamiseks kasutada klahve "w" ja "s".
+Vasakul mÃ¤nguvÃ¤ljaku poolel mÃ¤ngival mÃ¤ngijal tuleb ristkÃ¼liku liigutamiseks kasutada klahve "w" ja "s".
 
-Mängija, kes ei suuda enda mänguväljaku poolset seina ristkülikuga kaitsta ja pall tabab mänguväljaku seina, saab tabamuse eest punkti. 
+MÃ¤ngija, kes ei suuda enda mÃ¤nguvÃ¤ljaku poolset seina ristkÃ¼likuga kaitsta ja pall tabab mÃ¤nguvÃ¤ljaku seina, saab tabamuse eest punkti. 
 
-Võidab mängija, kellel on vähem punkte.
+VÃµidab mÃ¤ngija, kellel on vÃ¤hem punkte.
 
 
 
